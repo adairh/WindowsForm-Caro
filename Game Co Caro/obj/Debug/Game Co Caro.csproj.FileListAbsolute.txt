@@ -1,0 +1,294 @@
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.exe.config
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.exe
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.pdb
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csprojAssemblyReference.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game_Co_Caro.Form1.resources
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game_Co_Caro.Properties.Resources.resources
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.GenerateResource.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.CoreCompileInputs.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.exe
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.pdb
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.exe.config
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.exe
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.pdb
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\Game_Co_Caro.Properties.Resources.resources
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.exe
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.pdb
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Debug\Game_Co_Caro.FormBanCo.resources
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\bin\Debug\Game Co Caro.exe.config
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\bin\Debug\Game Co Caro.exe
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\bin\Debug\Game Co Caro.pdb
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game_Co_Caro.FormBanCo.resources
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game_Co_Caro.Properties.Resources.resources
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.exe
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.pdb
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\Game Co Caro.exe.config
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\Game Co Caro.exe
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\Game Co Caro.pdb
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\Interop.WMPLib.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\AxInterop.WMPLib.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.AssemblyReference.cache
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Interop.WMPLib.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\AxInterop.WMPLib.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.ResolveComReference.cache
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game_Co_Caro.FormBanCo.resources
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game_Co_Caro.Properties.Resources.resources
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.GenerateResource.cache
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.CoreCompileInputs.cache
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.exe
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.pdb
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\bin\Debug\Game Co Caro.exe.config
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\bin\Debug\Game Co Caro.exe
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\bin\Debug\Game Co Caro.pdb
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game_Co_Caro.FormBanCo.resources
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game_Co_Caro.Properties.Resources.resources
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.exe
+C:\Users\DELL\Downloads\CARO_OOP\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.pdb
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game_Co_Caro.MusicForm.resources
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\netstandard.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.AppContext.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Collections.Concurrent.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Collections.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Collections.NonGeneric.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Collections.Specialized.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.ComponentModel.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Console.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Data.Common.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Diagnostics.Debug.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Diagnostics.Process.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Diagnostics.Tools.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Diagnostics.Tracing.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Drawing.Primitives.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Dynamic.Runtime.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Globalization.Calendars.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Globalization.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Globalization.Extensions.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.Compression.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.FileSystem.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.Pipes.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Linq.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Linq.Expressions.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Linq.Parallel.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Linq.Queryable.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.Http.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.NameResolution.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.NetworkInformation.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.Ping.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.Primitives.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.Requests.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.Security.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.Sockets.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Net.WebSockets.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.ObjectModel.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Reflection.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Reflection.Extensions.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Reflection.Primitives.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Resources.Reader.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Resources.ResourceManager.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Resources.Writer.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.Extensions.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.Handles.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.InteropServices.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.Numerics.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Security.Claims.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Security.Principal.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Security.SecureString.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Text.Encoding.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Text.RegularExpressions.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Threading.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Threading.Overlapped.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Threading.Tasks.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Threading.Thread.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Threading.ThreadPool.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Threading.Timer.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.ValueTuple.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Xml.XDocument.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Xml.XmlDocument.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Xml.XPath.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\Newtonsoft.Json.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\Xabe.FFmpeg.dll
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\Newtonsoft.Json.xml
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\bin\Debug\Xabe.FFmpeg.xml
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.exe.config
+D:\CodingProjects\VS\CARO_OOP\Game Co Caro\obj\Debug\Game Co Caro.csproj.CopyComplete
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\Game Co Caro.exe.config
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\Game Co Caro.exe
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\Game Co Caro.pdb
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\netstandard.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.AppContext.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Collections.Concurrent.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Collections.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Collections.NonGeneric.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Collections.Specialized.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.ComponentModel.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Console.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Data.Common.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Diagnostics.Debug.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Diagnostics.Process.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Diagnostics.Tools.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Diagnostics.Tracing.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Drawing.Primitives.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Dynamic.Runtime.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Globalization.Calendars.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Globalization.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Globalization.Extensions.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.Compression.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.FileSystem.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.Pipes.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Linq.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Linq.Expressions.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Linq.Parallel.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Linq.Queryable.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.Http.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.NameResolution.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.NetworkInformation.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.Ping.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.Primitives.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.Requests.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.Security.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.Sockets.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Net.WebSockets.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.ObjectModel.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Reflection.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Reflection.Extensions.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Reflection.Primitives.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Resources.Reader.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Resources.ResourceManager.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Resources.Writer.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.Extensions.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.Handles.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.InteropServices.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.Numerics.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Security.Claims.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Security.Principal.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Security.SecureString.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Text.Encoding.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Text.RegularExpressions.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Threading.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Threading.Overlapped.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Threading.Tasks.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Threading.Thread.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Threading.ThreadPool.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Threading.Timer.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.ValueTuple.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Xml.XDocument.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Xml.XmlDocument.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Xml.XPath.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\Newtonsoft.Json.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\Xabe.FFmpeg.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\Newtonsoft.Json.xml
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\Xabe.FFmpeg.xml
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\Interop.WMPLib.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\bin\Debug\AxInterop.WMPLib.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game Co Caro.csproj.AssemblyReference.cache
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game Co Caro.exe.config
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Interop.WMPLib.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\AxInterop.WMPLib.dll
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game Co Caro.csproj.ResolveComReference.cache
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game_Co_Caro.FormBanCo.resources
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game_Co_Caro.MusicForm.resources
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game_Co_Caro.Properties.Resources.resources
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game Co Caro.csproj.GenerateResource.cache
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game Co Caro.csproj.CoreCompileInputs.cache
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game Co Caro.csproj.CopyComplete
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game Co Caro.exe
+D:\CodingProjects\VS\finalCaro\Game Co Caro\obj\Debug\Game Co Caro.pdb
